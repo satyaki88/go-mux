@@ -11,7 +11,7 @@ Example input json  body -> {"name":"zingyy99"}
 
 
 DECRYPT
---------
+------
  localhost:8000/api/decrypt
 
 
