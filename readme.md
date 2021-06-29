@@ -1,4 +1,4 @@
-This is ReadME
+This is ReadME.
 -------
 docker build -t go-lang .
 
